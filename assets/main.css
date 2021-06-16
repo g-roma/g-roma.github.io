@@ -13,7 +13,7 @@ dl, dd, ol, ul, figure {
 body {
   font: 400 16px/1.5 "Inconsolata", sans-serif;
   color: #999;
-  background-color: #222;
+  background-color: #000;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
@@ -218,7 +218,7 @@ table {
       position: absolute;
       top: 9px;
       right: 15px;
-      background-color: #222;
+      background-color: #000;
       border: 1px solid white;
       border-radius: 5px;
       text-align: right; }
@@ -506,8 +506,8 @@ table {
 
 .site-header {
   border-bottom: none;
-  background-color: #1F1F1F; }
+  background-color: #111118; }
 
 .site-footer {
   border-top: none;
-  background-color: #1F1F1F; }
+  background-color: #111118; }
